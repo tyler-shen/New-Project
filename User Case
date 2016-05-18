@@ -1,0 +1,21 @@
+General User/Visitor
+As a user, I want to see the main webpage.
+As a user, I want to see the introduction of the main webpage.
+As a user, I want to view a list of all company webpages.
+As a user, I want to search key words at company webpage list.
+As a user, I want to go to the company webpage I choose.
+As a user, I want to see related information about the company on the company webpage.
+
+Company User
+As a user, I want to log in as a company webpage editor.
+As a user, I want to have my own url for my company.
+As a user, I want to edit information about my company.
+As a user, I want to upload pictures when I need it.
+As an association user, I want to post news at my main page.
+As a restaurant user, I want to update my manu easily. 
+
+Administrator
+As a user, I want to log in as an administrator.
+As a user, I want to add/delete company users.
+As a user, I want to see all changes company users did.
+As a user, I want to do all things that company users can do at all pages.
